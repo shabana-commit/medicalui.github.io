@@ -1,0 +1,65 @@
+/*
+	@name welcome
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1366px; height: 768px; margin-left: auto; margin-right: auto;  }
+
+#_bg__welcome {
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 768px;
+	background:rgba(0,213,159,255);
+}
+
+#group_67 {
+	top: 164px;
+	left: 490px;
+	width: 386px;
+	height: 440px;
+}
+
+#logo {
+	top: 0px;
+	left: 39px;
+	width: 287px;
+	height: 287px;
+}
+
+
+#healthcare {
+	top: 310px;
+	left: 0px;
+	width: 391px;
+	height: 143px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 68px;
+	text-align: left;
+	color:#fcf6f6;
+}
+
+
+#cure_for_all {
+	top: 403px;
+	left: 101px;
+	width: 157px;
+	height: 55.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 27px;
+	text-align: left;
+	color:#ebfbfb;
+}
+
+
+
+/* Add your custom CSS here */
